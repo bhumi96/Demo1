@@ -1,0 +1,8 @@
+﻿.gallary img {
+    transition: 1s;
+}
+
+    .gallary img:hover {
+        filter: grayscale(100%);
+        transform: scale(1.1);
+    }
